@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+github: "false"
+#title: " "
+#description: " "
+title: "Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges"
+description: "Di Feng*, Christian Haase-Schuetz*, Lars Rosenbaum, Heinz Hertlein, Claudius Glaeser, Fabian Timm, Werner Wiesbeck and Klaus Dietmayer 
+    <p> Robert Bosch GmbH in cooperation with Ulm University and Karlruhe Institute of Technology
+    <p> * Contributed equally"
